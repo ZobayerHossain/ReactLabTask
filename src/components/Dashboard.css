@@ -156,3 +156,11 @@ body {
   font-weight: 500;
   color: white;
 }
+.nav-link {
+  background: none;
+  border: 2px solid red;
+  padding: 4px 12px;
+  cursor: pointer;
+  font-size: var(--font-size-md);
+  color: var(--text-primary);
+}
